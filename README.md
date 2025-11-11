@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm JUWON PARK</h1>
 <h3 align="center">I am workin with the mission of change the world a better than yesterday!</h3>
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ROS](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777juwon&label=Profile%20views&color=0e75b6&style=flat" alt="777juwon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=777juwon" alt="777juwon" /></a> </p>
